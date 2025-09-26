@@ -13,7 +13,7 @@ class Cotacoes_empresas:
     def __init__(self):
 
         self.cotacoes = [20, 20.03, 21, 22.30]
-        #self.bd = Banco_de_dados(user = "edufinance", senha = "codigo.py")
+        #self.bd = Banco_de_dados(user = "edufinance", senha = "codigo python")
 
     def soma_cotacoes(self):
 
@@ -49,7 +49,7 @@ teste_cotacoes = Cotacoes_empresas()
 teste_cotacoes.soma_cotacoes()
 
 
-# teste_banco = Banco_de_dados(user = "edufinance", senha = "codigo.py")
+# teste_banco = Banco_de_dados(user = "edufinance", senha = "codigo python")
 
 # teste_banco.iniciar_conexao()
 
