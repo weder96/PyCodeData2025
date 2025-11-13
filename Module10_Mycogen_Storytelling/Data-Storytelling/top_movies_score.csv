@@ -9,7 +9,7 @@ Schindler's List,"['Drama', 'History', 'War']",41.725123,English,['US'],8.206639
 Whiplash,['Drama'],64.29999,English,['US'],8.205404134572635
 千と千尋の神隠し,"['Fantasy', 'Adventure', 'Animation']",41.048867,Japanese,['JP'],8.196054543222257
 La vita è bella,"['Comedy', 'Drama']",39.39497,Italian,['IT'],8.187171484202333
-The Godfather: Part II,"['Drama', 'Crime']",36.629307,English,['US'],8.180076342767322
+The Godfather: Part II,"['Drama', 'Crime']",36.629307,English,['US'],8.18007634276732
 One Flew Over the Cuckoo's Nest,['Drama'],35.529554,English,['US'],8.164255980519288
 Forrest Gump,"['Comedy', 'Drama', 'Romance']",48.307194,English,['US'],8.150272439439204
 The Empire Strikes Back,"['Adventure', 'Action', 'Science Fiction']",19.470959,English,['US'],8.13291866749293
@@ -39,7 +39,7 @@ Dead Poets Society,['Drama'],19.905716,English,['US'],7.965211525601313
 Once Upon a Time in America,"['Drama', 'Crime']",32.182851,English,"['US', 'IT']",7.960532558877746
 The Lord of the Rings: The Fellowship of the Ring,"['Adventure', 'Fantasy', 'Action']",32.070725,English,"['NZ', 'US']",7.957900260099588
 Taxi Driver,"['Crime', 'Drama']",14.092713,English,['US'],7.957776917772732
-Rear Window,"['Drama', 'Mystery', 'Thriller']",17.911314,English,['US'],7.955714461514766
+Rear Window,"['Drama', 'Mystery', 'Thriller']",17.911314,English,['US'],7.9557144615147655
 The Lord of the Rings: The Two Towers,"['Adventure', 'Fantasy', 'Action']",29.423537,English,"['NZ', 'US']",7.951148975057232
 "Il buono, il brutto, il cattivo",['Western'],16.788787,Italian,"['US', 'IT', 'ES']",7.943110689222232
 Back to the Future,"['Adventure', 'Comedy', 'Science Fiction']",25.778509,English,['US'],7.940445875046331
@@ -63,7 +63,7 @@ Apocalypse Now,"['Drama', 'War']",13.5963,English,['US'],7.8322681137418435
 Saving Private Ryan,"['Drama', 'History', 'War']",21.758054,English,['US'],7.831219509122357
 Return of the Jedi,"['Adventure', 'Action', 'Science Fiction']",14.586087,English,['US'],7.825840575750858
 La La Land,"['Comedy', 'Drama', 'Music']",19.681686,English,['US'],7.825568431074713
-올드보이,"['Drama', 'Thriller', 'Mystery']",10.616859,Korean,['KR'],7.823570904824755
+올드보이,"['Drama', 'Thriller', 'Mystery']",10.616859,Korean,['KR'],7.823570904824754
 Alien,"['Horror', 'Action', 'Thriller']",23.37742,English,"['US', 'GB']",7.822716586456703
 The Departed,"['Drama', 'Thriller', 'Crime']",18.515448,English,"['HK', 'US']",7.820891257729463
 Her,"['Romance', 'Science Fiction', 'Drama']",13.829515,English,"['CN', 'US']",7.8165515781534785
@@ -89,9 +89,9 @@ Shutter Island,"['Drama', 'Thriller', 'Mystery']",15.813629,English,['US'],7.748
 WALL·E,"['Animation', 'Family']",16.088366,English,['US'],7.747100038554549
 Big Hero 6,"['Adventure', 'Family', 'Animation']",213.849907,English,['US'],7.74586961612986
 Mommy,['Drama'],14.876086,English,['CA'],7.737934177205222
-Band of Brothers,"['Action', 'Drama', 'War']",7.903731,English,"['GB', 'US']",7.7332352027361235
+Band of Brothers,"['Action', 'Drama', 'War']",7.903731,English,"['GB', 'US']",7.733235202736123
 Citizen Kane,"['Mystery', 'Drama']",15.811921,English,['US'],7.7285706228073145
-The Help,['Drama'],7.486118,English,"['IN', 'AE', 'US']",7.728275237263157
+The Help,['Drama'],7.486118,English,"['IN', 'AE', 'US']",7.728275237263156
 The Truman Show,"['Comedy', 'Drama']",13.155901,English,['US'],7.728200977873605
 Modern Times,"['Drama', 'Comedy']",8.159556,English,['US'],7.718552501845792
 Vertigo,"['Mystery', 'Romance', 'Thriller']",18.20822,English,['US'],7.711734610001112
@@ -130,7 +130,7 @@ The Thing,"['Horror', 'Mystery', 'Science Fiction']",16.83125,English,['US'],7.6
 Sunset Boulevard,['Drama'],11.709777,English,['US'],7.603915085745266
 Aliens,"['Horror', 'Action', 'Thriller']",21.761179,English,"['GB', 'US']",7.603228690999846
 The Sixth Sense,"['Mystery', 'Thriller', 'Drama']",18.449169,English,['US'],7.6015409856403995
-The Notebook,"['Romance', 'Drama']",15.239013,English,['US'],7.599763212284524
+The Notebook,"['Romance', 'Drama']",15.239013,English,['US'],7.599763212284523
 Stand by Me,"['Crime', 'Drama']",15.206957,English,['US'],7.597982149549461
 A Beautiful Mind,"['Drama', 'Romance']",11.93646,English,['US'],7.597417047866175
 No Country for Old Men,"['Crime', 'Drama', 'Thriller']",15.565484,English,['US'],7.597290519402242
@@ -139,23 +139,23 @@ Snatch,"['Thriller', 'Crime']",14.014025,English,"['GB', 'US']",7.59300133453950
 The Pursuit of Happyness,['Drama'],20.981716,English,['US'],7.579621667662258
 Das Leben der Anderen,"['Drama', 'Thriller']",9.02255,German,['DE'],7.578903389992498
 Pride & Prejudice,"['Drama', 'Romance']",14.439083,English,"['FR', 'GB', 'US']",7.577083751226992
-Million Dollar Baby,['Drama'],14.471373,English,['US'],7.575667470855346
+Million Dollar Baby,['Drama'],14.471373,English,['US'],7.575667470855345
 Paperman,"['Animation', 'Family', 'Romance']",7.198633,English,['US'],7.5737283606504135
-Jagten,['Drama'],8.462801,Danish,"['DK', 'SE']",7.5699033945944585
+Jagten,['Drama'],8.462801,Danish,"['DK', 'SE']",7.569903394594458
 Chinatown,"['Crime', 'Drama', 'Mystery']",12.29227,English,['US'],7.567800868445378
 Casino,"['Drama', 'Crime']",10.137389,English,"['FR', 'US']",7.567739956368243
 The Dark Knight Rises,"['Action', 'Crime', 'Drama']",20.58258,English,['US'],7.566349692711607
 Rush,"['Drama', 'Action']",10.63552,English,"['DE', 'GB']",7.565147026081567
 Piper,"['Family', 'Animation']",11.243161,English,['US'],7.561535014561777
 The Martian,"['Drama', 'Adventure', 'Science Fiction']",25.62993,English,['US'],7.5582890232072435
-Fargo,"['Crime', 'Drama', 'Thriller']",12.61469,English,['US'],7.551300515366728
+Fargo,"['Crime', 'Drama', 'Thriller']",12.61469,English,['US'],7.551300515366727
 Logan,"['Action', 'Drama', 'Science Fiction']",54.581997,English,['US'],7.5509912139754976
 Finding Nemo,"['Animation', 'Family']",25.497794,English,['US'],7.550854487666068
 Kingsman: The Secret Service,"['Crime', 'Comedy', 'Action']",28.224212,English,"['GB', 'US']",7.549095064122888
 Captain America: The Winter Soldier,"['Action', 'Adventure', 'Science Fiction']",18.717704,English,['US'],7.547510868137968
-La leggenda del pianista sull'oceano,['Fantasy'],7.668214,Italian,['IT'],7.543855958573487
-Sing Street,"['Romance', 'Drama', 'Music']",10.672862,English,"['IE', 'GB', 'US']",7.540305373246646
-Metropolis,"['Drama', 'Science Fiction']",14.487867,German,['DE'],7.538635780171271
+La leggenda del pianista sull'oceano,['Fantasy'],7.668214,Italian,['IT'],7.543855958573486
+Sing Street,"['Romance', 'Drama', 'Music']",10.672862,English,"['IE', 'GB', 'US']",7.540305373246645
+Metropolis,"['Drama', 'Science Fiction']",14.487867,German,['DE'],7.53863578017127
 Edge of Tomorrow,"['Action', 'Science Fiction']",31.982986,English,"['AU', 'US']",7.53829794793179
 Jurassic Park,"['Adventure', 'Science Fiction']",8.863776,English,['US'],7.538020554030779
 Heat,"['Action', 'Crime', 'Drama']",17.924927,English,['US'],7.53720095524021
@@ -168,16 +168,16 @@ Hachi: A Dog's Tale,"['Drama', 'Family']",8.621359,English,"['GB', 'US']",7.5273
 Amadeus,"['Drama', 'History', 'Music']",12.677592,English,['US'],7.524477627799108
 The Fault in Our Stars,"['Romance', 'Drama']",16.274653,English,['US'],7.52127933327246
 "Love, Rosie","['Comedy', 'Romance']",14.566103,English,"['GB', 'US']",7.516985249682126
-City Lights,"['Comedy', 'Drama', 'Romance']",10.891524,English,['US'],7.5160813814925
+City Lights,"['Comedy', 'Drama', 'Romance']",10.891524,English,['US'],7.516081381492499
 North by Northwest,"['Mystery', 'Thriller']",12.410427,English,['US'],7.514331550263068
-Nightcrawler,"['Crime', 'Drama', 'Thriller']",21.277073,English,['US'],7.512768405618011
+Nightcrawler,"['Crime', 'Drama', 'Thriller']",21.277073,English,['US'],7.51276840561801
 Annie Hall,"['Comedy', 'Drama', 'Romance']",18.146043,English,['US'],7.5100607594862705
 Indiana Jones and the Last Crusade,"['Adventure', 'Action']",14.788987,English,['US'],7.506215070813803
 How to Train Your Dragon 2,"['Fantasy', 'Action', 'Adventure']",12.256689,English,['US'],7.504578138555964
 El laberinto del fauno,"['Fantasy', 'Drama', 'War']",26.817754,Spanish,"['ES', 'US', 'MX']",7.5033860921454805
 Mulholland Drive,"['Thriller', 'Drama', 'Mystery']",18.184056,English,"['FR', 'US']",7.501379340740292
 The Boy in the Striped Pyjamas,"['War', 'Drama']",8.912738,English,"['GB', 'US']",7.498373580158275
-Singin' in the Rain,"['Comedy', 'Music', 'Romance']",11.064858,English,['US'],7.497478670806472
+Singin' in the Rain,"['Comedy', 'Music', 'Romance']",11.064858,English,['US'],7.497478670806471
 Slumdog Millionaire,"['Drama', 'Romance']",11.258181,English,"['IN', 'GB', 'US']",7.496982831196059
 The Apartment,"['Comedy', 'Drama', 'Romance']",11.994281,English,['US'],7.496524550792507
 Per qualche dollaro in più,['Western'],13.295342,Italian,"['IT', 'ES', 'DE']",7.4959173819002345
@@ -190,7 +190,7 @@ Captain Phillips,"['Action', 'Drama', 'Thriller']",13.776068,English,['US'],7.48
 L.A. Confidential,"['Crime', 'Drama', 'Mystery']",10.989442,English,['US'],7.4779421029476465
 La Haine,['Drama'],12.108196,French,['FR'],7.4729978414286204
 Warrior,"['Action', 'Drama']",13.121626,English,['US'],7.471388575443699
-天空の城ラピュタ,"['Adventure', 'Fantasy', 'Animation']",11.061551,Japanese,['JP'],7.463368519210675
+天空の城ラピュタ,"['Adventure', 'Fantasy', 'Animation']",11.061551,Japanese,['JP'],7.4633685192106745
 To Kill a Mockingbird,"['Crime', 'Drama']",14.284787,English,['US'],7.463293246915633
 Star Wars: The Force Awakens,"['Action', 'Adventure', 'Science Fiction']",31.626013,English,['US'],7.46307042247289
 Titanic,"['Drama', 'Romance', 'Thriller']",26.88907,English,['US'],7.462031923634486
@@ -200,7 +200,7 @@ Batman Begins,"['Action', 'Crime', 'Drama']",28.505341,English,"['GB', 'US']",7.
 Life of Brian,['Comedy'],10.714173,English,['GB'],7.460369175842785
 Pirates of the Caribbean: The Curse of the Black Pearl,"['Adventure', 'Fantasy', 'Action']",47.326665,English,['US'],7.4590413759245635
 Harry Potter and the Philosopher's Stone,"['Adventure', 'Fantasy', 'Family']",38.187238,English,"['GB', 'US']",7.459024653568518
-Mulan,"['Animation', 'Family', 'Adventure']",21.180857,English,['US'],7.45900985078767
+Mulan,"['Animation', 'Family', 'Adventure']",21.180857,English,['US'],7.459009850787669
 Big Fish,"['Adventure', 'Fantasy', 'Drama']",14.739983,English,['US'],7.457424979506056
 GHOST IN THE SHELL,"['Action', 'Animation', 'Science Fiction']",10.686166,Japanese,['JP'],7.455732893906775
 3 Idiots,"['Drama', 'Comedy', 'Romance']",7.675621,Hindi,['IN'],7.454369459823237
@@ -209,7 +209,7 @@ X-Men: Days of Future Past,"['Action', 'Adventure', 'Fantasy']",26.058586,Englis
 아가씨,"['Thriller', 'Drama', 'Romance']",16.727405,Korean,['KR'],7.452223742938775
 Harry Potter and the Goblet of Fire,"['Adventure', 'Fantasy', 'Family']",24.903058,English,"['GB', 'US']",7.449123547553476
 Harry Potter and the Deathly Hallows: Part 1,"['Adventure', 'Fantasy', 'Family']",23.300362,English,"['GB', 'US']",7.448690039949126
-The Sting,"['Comedy', 'Crime', 'Drama']",12.016821,English,['US'],7.443070280877935
+The Sting,"['Comedy', 'Crime', 'Drama']",12.016821,English,['US'],7.443070280877934
 Unforgiven,['Western'],10.942149,English,['US'],7.442392230797735
 Moon,"['Science Fiction', 'Drama']",13.336773,English,['GB'],7.440739906791295
 Perfetti sconosciuti,"['Comedy', 'Drama']",6.984664,Italian,['IT'],7.437500679565389
@@ -231,7 +231,7 @@ Before Sunrise,"['Drama', 'Romance']",11.304979,English,"['AT', 'CH', 'US']",7.4
 The Lego Movie,"['Adventure', 'Animation', 'Comedy']",16.418133,English,['US'],7.408400716282772
 Kubo and the Two Strings,"['Animation', 'Adventure', 'Family']",12.321832,English,['US'],7.408330257812145
 The Great Escape,"['Adventure', 'Drama', 'History']",14.384114,English,['US'],7.4082078051868345
-おおかみこどもの雨と雪,"['Animation', 'Drama', 'Family']",10.249498,Japanese,['JP'],7.407329944667915
+おおかみこどもの雨と雪,"['Animation', 'Drama', 'Family']",10.249498,Japanese,['JP'],7.407329944667914
 Mystic River,"['Thriller', 'Crime', 'Drama']",12.602438,English,['US'],7.405825569149705
 Beauty and the Beast,"['Romance', 'Family', 'Animation']",23.433511,English,['US'],7.405585811985409
 The Iron Giant,"['Adventure', 'Animation', 'Family']",15.441459,English,['US'],7.405468192896606
@@ -247,5 +247,5 @@ Shaun of the Dead,"['Horror', 'Comedy']",14.902948,English,"['GB', 'US', 'FR']",
 Contratiempo,"['Mystery', 'Crime', 'Thriller']",13.90698,Spanish,['ES'],7.384528206164809
 Young Frankenstein,"['Comedy', 'Science Fiction']",9.339316,English,['US'],7.3797241869437205
 Relatos salvajes,"['Drama', 'Thriller', 'Comedy']",8.764888,Spanish,"['AR', 'ES']",7.37910708518446
-Dial M for Murder,"['Crime', 'Mystery', 'Thriller']",7.853231,English,['US'],7.377701222348312
+Dial M for Murder,"['Crime', 'Mystery', 'Thriller']",7.853231,English,['US'],7.377701222348311
 The Avengers,"['Science Fiction', 'Action', 'Adventure']",89.887648,English,['US'],7.376555358093871
